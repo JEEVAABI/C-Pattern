@@ -1,7 +1,7 @@
 # Pattern
 
 ## Aim:
-To write a C# program for a pascal's triangle
+To write a C# program for a pascal's triangle.
 ## Equipment Required:
 * C# Compiler or visual studio
 
