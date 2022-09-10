@@ -1,8 +1,9 @@
 # Pattern
 
 ## Aim:
-
+To write a C# program for a pascal's triangle
 ## Equipment Required:
+* C# Compiler or visual studio
 
 ## Algorithm:
 ### Step 1:
